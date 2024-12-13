@@ -1,14 +1,6 @@
-# New Repository
+# UIUC, CS 498 Introduction to Machine Perception, 2022 Spring Homework
 
-[![pre-commit](https://github.com/Tom-Notch/Repository-Template/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/Tom-Notch/Repository-Template/actions/workflows/pre-commit.yml)
-
-## Usage Guidelines
-
-1. Change [LICENSE](LICENSE) if necessary
-
-1. Modify [.pre-commit-config.yaml](.pre-commit-config.yaml) according to your need
-
-1. Modify/add GitHub workflow status badges in [README.md](README.md)
+[![pre-commit](https://github.com/Tom-Notch/CS-498-Homework/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/Tom-Notch/CS-498-Homework/actions/workflows/pre-commit.yml)
 
 ## Developer Quick Start
 
